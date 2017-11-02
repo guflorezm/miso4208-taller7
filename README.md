@@ -36,5 +36,14 @@ A continuación se puede ver la ejecución de la prueba en el siguiente video
 
 ![espressoTestEjecutar](https://github.com/guflorezm/miso4208-taller7/blob/master/imagenes/espresso-test-recorder-ejecutar.gif)
 
+## Espresso Punto 4
+
+La prueba de espresso se realizó con la aplicación CAR REPORT cuyo codigo fuente se encuentra en el siguiente enlace https://bitbucket.org/frigus02/car-report 
+
+A continuación se puede ver la ejecución del test con espresso en el siguiente video
+
+![espresso](https://github.com/guflorezm/miso4208-taller7/blob/master/imagenes/espresso-4.gif)
+
+
 
 
