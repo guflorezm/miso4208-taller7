@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-sw410dp-land-v13\\values-sw410dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\src\\main\\res\\values-sw410dp-land\\integers.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "740",
+                        "endColumns": "59",
+                        "endOffsets": "795"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    }
+                }
+            ]
+        }
+    ]
+}

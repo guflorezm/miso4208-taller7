@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-ml-rIN\\values-ml-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\android-color-picker-1.0.2.aar\\f4f2e908bbfb1cbcc310c9fb8eb590d1\\res\\values-ml-rIN\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "241,352,479",
+                        "endColumns": "110,126,149",
+                        "endOffsets": "347,474,624"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,216,343",
+                        "endColumns": "110,126,149",
+                        "endOffsets": "211,338,488"
+                    }
+                }
+            ]
+        }
+    ]
+}

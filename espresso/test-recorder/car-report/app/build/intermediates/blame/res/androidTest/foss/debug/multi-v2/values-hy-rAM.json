@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\build\\intermediates\\incremental\\mergeFossDebugAndroidTestResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\android.joda-2.9.9.aar\\126c087d6dce7264b03fe39049be41bd\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,78,79,80",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,351,602,856,1111,1361,1619,1880,2141,2383,2629,2883,3122,3365,3613,3869,4111,4362,4617,4880,5008,5141",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,78,79,80",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,127,132,150",
+                        "endOffsets": "346,597,851,1106,1356,1614,1875,2136,2378,2624,2878,3117,3360,3608,3864,4106,4357,4612,4875,5003,5136,5287"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,81,82,83",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,351,602,856,1111,1361,1619,1880,2141,2383,2629,2883,3122,3365,3613,3869,4111,4362,4617,5252,5380,5513",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,82,83",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,127,132,150",
+                        "endOffsets": "346,597,851,1106,1356,1614,1875,2136,2378,2624,2878,3117,3360,3608,3864,4106,4357,4612,4875,5375,5508,5659"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\android-color-picker-1.0.2.aar\\f4f2e908bbfb1cbcc310c9fb8eb590d1\\res\\values-hy-rAM\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "241,340,467",
+                        "endColumns": "98,126,145",
+                        "endOffsets": "335,462,608"
+                    },
+                    "to": {
+                        "startLines": "78,79,80",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4880,4979,5106",
+                        "endColumns": "98,126,145",
+                        "endOffsets": "4974,5101,5247"
+                    }
+                }
+            ]
+        }
+    ]
+}

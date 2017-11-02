@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+MERGED from [com.github.gudatcomputers:hellocharts-android:ba603174d302931c0985afb4e54d597fba28146b] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\hellocharts-android-ba603174d302931c0985afb4e54d597fba28146b.aar\31e7fecf01907b8c153fe0127a035874\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\218b6aa7736d4c18669fa068d92abc27\AndroidManifest.xml:17:1-22:12
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\licensesdialog-1.8.2.aar\e7e8bb49cb576ed801662646daa74cb9\AndroidManifest.xml:16:6-20:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\9f96fb026f40b79f10f5d61990ec4b5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\5bc06380c45ce53d970da10857b91b5c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\a8fc6edbbbd15f4a552bbb1cb5346e0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\7a3c75d73a696315dc40f296c9bdb650\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\77cf56a5366734932a4ded1ca6ff936a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e53383e9c43b10627de59e497bc301d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\77cd5eb18e01b73cf493648a55e0a6f3\AndroidManifest.xml:2:1-14:12
+MERGED from [uk.co.jordanrobinson:android-color-picker:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\android-color-picker-1.0.2.aar\f4f2e908bbfb1cbcc310c9fb8eb590d1\AndroidManifest.xml:17:1-26:12
+MERGED from [net.danlew:android.joda:2.9.9] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\android.joda-2.9.9.aar\126c087d6dce7264b03fe39049be41bd\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\208f8f199905569992fdd71e0ad8c0ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\55808089970dae550d59bfce5990b6c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\c334e983b011f89b73bd12ce3d170687\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\e8d4f26e64c2c6971db877b19b1b5aa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\f25b399e3f5c856e2f5bf8688f1c99da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\01fdb3f1fe45990b8f1c3e8e18aebab2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\5b2c6beeace1293769bc4e5ed093f943\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\7ab8b935425317e9abc3e4a1dc75b32c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+	package
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:11-40
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:19:11-57
+	android:versionCode
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:17:1-138:12
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:26:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:27:5-77
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:27:22-75
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:28:5-73
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:28:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:29:5-97
+	android:maxSdkVersion
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:29:69-95
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:30:5-100
+	android:maxSdkVersion
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:30:72-98
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:30:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:31:5-106
+	android:maxSdkVersion
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:31:78-104
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:31:22-77
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:32:5-100
+	android:maxSdkVersion
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:32:72-98
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:32:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:35:22-78
+application
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:37:5-136:19
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\licensesdialog-1.8.2.aar\e7e8bb49cb576ed801662646daa74cb9\AndroidManifest.xml:19:5-19
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\licensesdialog-1.8.2.aar\e7e8bb49cb576ed801662646daa74cb9\AndroidManifest.xml:19:5-19
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\5bc06380c45ce53d970da10857b91b5c\AndroidManifest.xml:9:5-20
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\5bc06380c45ce53d970da10857b91b5c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e53383e9c43b10627de59e497bc301d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e53383e9c43b10627de59e497bc301d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\77cd5eb18e01b73cf493648a55e0a6f3\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\77cd5eb18e01b73cf493648a55e0a6f3\AndroidManifest.xml:12:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:44:9-35
+	android:label
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:43:9-41
+	android:fullBackupContent
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:41:9-55
+	android:icon
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:42:9-43
+	android:allowBackup
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:39:9-35
+	android:description
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:40:9-54
+	android:theme
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:45:9-40
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:38:9-35
+activity#me.kuehle.carreport.gui.MainActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:47:9-55:20
+	android:label
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:49:13-45
+	android:theme
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:50:13-73
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:48:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:51:13-54:29
+action#android.intent.action.MAIN
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:52:17-68
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:53:27-74
+activity#me.kuehle.carreport.gui.FirstStartActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:56:9-58:56
+	android:label
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:58:13-54
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:57:13-51
+activity#me.kuehle.carreport.gui.DataDetailActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:59:9-59
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:59:19-57
+activity#me.kuehle.carreport.gui.PreferencesActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:60:9-68:20
+	android:parentActivityName
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:63:13-59
+	android:label
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:62:13-51
+	android:theme
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:61:13-52
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:65:13-67:52
+	android:value
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:67:17-50
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:66:17-63
+activity#me.kuehle.carreport.gui.HelpActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:69:9-77:20
+	android:parentActivityName
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:72:13-59
+	android:label
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:71:13-47
+	android:theme
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:73:13-56
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:70:13-45
+activity#me.kuehle.carreport.gui.AuthenticatorAddAccountActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:78:9-81:53
+	android:excludeFromRecents
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:80:13-46
+	android:theme
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:81:13-51
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:79:13-64
+activity#com.dropbox.core.android.AuthActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:82:9-93:20
+	android:launchMode
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:85:13-44
+	android:configChanges
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:84:13-57
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:83:13-65
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:86:13-92:29
+data
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:87:17-60
+	android:scheme
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:87:23-58
+action#android.intent.action.VIEW
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:88:17-68
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:88:25-66
+category#android.intent.category.BROWSABLE
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:90:17-77
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:90:27-75
+category#android.intent.category.DEFAULT
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:91:17-75
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:91:27-73
+activity#me.kuehle.carreport.gui.dialog.SetupWebDavSyncDialogActivity
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:94:9-97:53
+	android:excludeFromRecents
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:96:13-46
+	android:theme
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:97:13-51
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:95:13-69
+service#me.kuehle.carreport.util.sync.AuthenticatorService
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:99:9-108:19
+	android:exported
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:100:13-59
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:102:13-104:29
+action#android.accounts.AccountAuthenticator
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:103:17-79
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:103:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:105:13-107:56
+	android:resource
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:107:17-54
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:106:17-69
+service#me.kuehle.carreport.util.sync.SyncService
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:109:9-119:19
+	android:process
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:111:13-36
+	tools:ignore
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:112:13-43
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:110:13-50
+intent-filter#android.content.SyncAdapter
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:113:13-115:29
+action#android.content.SyncAdapter
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:114:17-69
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:114:25-67
+meta-data#android.content.SyncAdapter
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:116:13-118:55
+	android:resource
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:118:17-53
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:117:17-59
+service#me.kuehle.carreport.util.reminder.ReminderService
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:120:9-123:42
+	android:process
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:123:13-40
+	android:exported
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:121:13-58
+receiver#me.kuehle.carreport.util.reminder.ReminderEnablerReceiver
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:125:9-129:20
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:125:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:126:13-128:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:127:17-78
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:127:25-76
+provider#me.kuehle.carreport.provider.DataProvider
+ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:131:9-134:39
+	android:authorities
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:133:13-63
+	android:exported
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:134:13-37
+	android:name
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml:132:13-69
+uses-sdk
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+MERGED from [com.github.gudatcomputers:hellocharts-android:ba603174d302931c0985afb4e54d597fba28146b] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\hellocharts-android-ba603174d302931c0985afb4e54d597fba28146b.aar\31e7fecf01907b8c153fe0127a035874\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.gudatcomputers:hellocharts-android:ba603174d302931c0985afb4e54d597fba28146b] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\hellocharts-android-ba603174d302931c0985afb4e54d597fba28146b.aar\31e7fecf01907b8c153fe0127a035874\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\218b6aa7736d4c18669fa068d92abc27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\218b6aa7736d4c18669fa068d92abc27\AndroidManifest.xml:20:5-44
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\licensesdialog-1.8.2.aar\e7e8bb49cb576ed801662646daa74cb9\AndroidManifest.xml:18:5-72
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\licensesdialog-1.8.2.aar\e7e8bb49cb576ed801662646daa74cb9\AndroidManifest.xml:18:5-72
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\9f96fb026f40b79f10f5d61990ec4b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\9f96fb026f40b79f10f5d61990ec4b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\5bc06380c45ce53d970da10857b91b5c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\5bc06380c45ce53d970da10857b91b5c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\a8fc6edbbbd15f4a552bbb1cb5346e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\a8fc6edbbbd15f4a552bbb1cb5346e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\7a3c75d73a696315dc40f296c9bdb650\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\7a3c75d73a696315dc40f296c9bdb650\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\77cf56a5366734932a4ded1ca6ff936a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\77cf56a5366734932a4ded1ca6ff936a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e53383e9c43b10627de59e497bc301d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0e53383e9c43b10627de59e497bc301d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\77cd5eb18e01b73cf493648a55e0a6f3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\77cd5eb18e01b73cf493648a55e0a6f3\AndroidManifest.xml:8:5-10:41
+MERGED from [uk.co.jordanrobinson:android-color-picker:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\android-color-picker-1.0.2.aar\f4f2e908bbfb1cbcc310c9fb8eb590d1\AndroidManifest.xml:22:5-24:41
+MERGED from [uk.co.jordanrobinson:android-color-picker:1.0.2] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\android-color-picker-1.0.2.aar\f4f2e908bbfb1cbcc310c9fb8eb590d1\AndroidManifest.xml:22:5-24:41
+MERGED from [net.danlew:android.joda:2.9.9] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\android.joda-2.9.9.aar\126c087d6dce7264b03fe39049be41bd\AndroidManifest.xml:6:5-43
+MERGED from [net.danlew:android.joda:2.9.9] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\android.joda-2.9.9.aar\126c087d6dce7264b03fe39049be41bd\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\208f8f199905569992fdd71e0ad8c0ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\208f8f199905569992fdd71e0ad8c0ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\55808089970dae550d59bfce5990b6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\55808089970dae550d59bfce5990b6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\c334e983b011f89b73bd12ce3d170687\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\c334e983b011f89b73bd12ce3d170687\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\e8d4f26e64c2c6971db877b19b1b5aa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\e8d4f26e64c2c6971db877b19b1b5aa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\f25b399e3f5c856e2f5bf8688f1c99da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\f25b399e3f5c856e2f5bf8688f1c99da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\01fdb3f1fe45990b8f1c3e8e18aebab2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\01fdb3f1fe45990b8f1c3e8e18aebab2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\5b2c6beeace1293769bc4e5ed093f943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\5b2c6beeace1293769bc4e5ed093f943\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\7ab8b935425317e9abc3e4a1dc75b32c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\7ab8b935425317e9abc3e4a1dc75b32c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+		ADDED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Gerson\UniAndes\Pruebas\car-report\app\src\main\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2472f4cf871238b7343ee3d7b31813f9\AndroidManifest.xml:26:13-58

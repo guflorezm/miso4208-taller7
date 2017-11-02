@@ -1,0 +1,4 @@
+#Wed Nov 01 16:34:07 COT 2017
+base.0=D\:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\build\\intermediates\\transforms\\dexMerger\\foss\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\build\\intermediates\\transforms\\dexMerger\\foss\\debug\\0\\classes.dex

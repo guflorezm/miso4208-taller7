@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\build\\intermediates\\incremental\\mergeFossDebugAndroidTestResources\\merged.dir\\values-kk-rKZ\\values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\android-color-picker-1.0.2.aar\\f4f2e908bbfb1cbcc310c9fb8eb590d1\\res\\values-kk-rKZ\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "241,341,466",
+                        "endColumns": "99,124,142",
+                        "endOffsets": "336,461,604"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,205,330",
+                        "endColumns": "99,124,142",
+                        "endOffsets": "200,325,468"
+                    }
+                }
+            ]
+        }
+    ]
+}

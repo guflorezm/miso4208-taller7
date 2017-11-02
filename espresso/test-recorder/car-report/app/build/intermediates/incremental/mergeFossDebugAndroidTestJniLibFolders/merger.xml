@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Gerson\UniAndes\Pruebas\car-report\app\src\androidTest\jniLibs"/></dataSet><dataSet config="foss"><source path="D:\Gerson\UniAndes\Pruebas\car-report\app\src\androidTestFoss\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Gerson\UniAndes\Pruebas\car-report\app\src\androidTestDebug\jniLibs"/></dataSet><dataSet config="fossDebugAndroidTest"><source path="D:\Gerson\UniAndes\Pruebas\car-report\app\src\androidTestFossDebug\jniLibs"/></dataSet></merger>

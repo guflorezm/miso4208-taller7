@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Gerson\\UniAndes\\Pruebas\\car-report\\app\\build\\intermediates\\incremental\\mergeFossDebugAndroidTestResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\android.joda-2.9.9.aar\\126c087d6dce7264b03fe39049be41bd\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,78,79,80,81",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,356,612,873,1137,1390,1652,1916,2185,2430,2681,2934,3178,3426,3681,3938,4183,4439,4700,4962,5028,5162,5293",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,78,79,80,81",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,65,133,130,150",
+                        "endOffsets": "351,607,868,1132,1385,1647,1911,2180,2425,2676,2929,3173,3421,3676,3933,4178,4434,4695,4957,5023,5157,5288,5439"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,98,99,100,101",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,356,612,873,1137,1390,1652,1916,2185,2430,2681,2934,3178,3426,3681,3938,4183,4439,4700,7131,7197,7331,7462",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,98,99,100,101",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,65,133,130,150",
+                        "endOffsets": "351,607,868,1132,1385,1647,1911,2180,2425,2676,2929,3173,3421,3676,3933,4178,4434,4695,4957,7192,7326,7457,7608"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\android-color-picker-1.0.2.aar\\f4f2e908bbfb1cbcc310c9fb8eb590d1\\res\\values-es-rUS\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "241,347,473",
+                        "endColumns": "105,125,147",
+                        "endOffsets": "342,468,616"
+                    },
+                    "to": {
+                        "startLines": "95,96,97",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6751,6857,6983",
+                        "endColumns": "105,125,147",
+                        "endOffsets": "6852,6978,7126"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\7ab8b935425317e9abc3e4a1dc75b32c\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "103",
+                        "startColumns": "4",
+                        "startOffsets": "7695",
+                        "endColumns": "100",
+                        "endOffsets": "7791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\a8fc6edbbbd15f4a552bbb1cb5346e0a\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,334,442,527,628,751,836,918,1000,1112,1212,1313,1421,1528,1635,1794,1894",
+                        "endColumns": "119,108,107,84,100,122,84,81,81,111,99,100,107,106,106,158,99,81",
+                        "endOffsets": "220,329,437,522,623,746,831,913,995,1107,1207,1308,1416,1523,1630,1789,1889,1971"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,102",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4962,5082,5191,5299,5384,5485,5608,5693,5775,5857,5969,6069,6170,6278,6385,6492,6651,7613",
+                        "endColumns": "119,108,107,84,100,122,84,81,81,111,99,100,107,106,106,158,99,81",
+                        "endOffsets": "5077,5186,5294,5379,5480,5603,5688,5770,5852,5964,6064,6165,6273,6380,6487,6646,6746,7690"
+                    }
+                }
+            ]
+        }
+    ]
+}
